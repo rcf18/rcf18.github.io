@@ -1,2 +1,2 @@
-# RCFan (rcf18.github.io)
+# RCFan 
 This site is under construction.

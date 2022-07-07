@@ -1,1 +1,26 @@
 theme: jekyll-theme-cayman
+
+lang: en, zh-TW
+
+title: Rebecca C. Fan
+
+description: coming soon.
+
+author: 
+  name: rcfan
+  contact: rcfan [at] citi [dot] sinica [dot] edu [dot] tw
+  ORCiD: 0000-0002-2691-0120  
+  
+plugins:
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
+  - jekyll-last-modified-at
